@@ -11,10 +11,19 @@ p {
     font-weight: bold;
 }
 nav ul {
+    text-align: center;
     display: flex;
    
+}
+ul {
+    text-align: center;
 }
 ul li {
      padding: 15px;
      list-style-type: none;
+}
+a:hover {
+    /* border-radius: 3px;
+    padding: 10px; */
+    background-color:rgb(234, 235, 255);
 }
