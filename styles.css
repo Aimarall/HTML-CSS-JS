@@ -12,4 +12,5 @@ p {
 }
 nav ul {
     display: flex;
+    padding: 15px;
 }
