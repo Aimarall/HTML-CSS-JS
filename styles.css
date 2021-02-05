@@ -16,4 +16,5 @@ nav ul {
 }
 ul li {
      padding: 15px;
+     list-style-type: none;
 }
