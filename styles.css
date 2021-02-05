@@ -10,3 +10,6 @@ p {
     color: rgb(255, 255, 255);
     font-weight: bold;
 }
+nav ul {
+    display: flex;
+}
