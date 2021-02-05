@@ -23,7 +23,7 @@ ul li {
      list-style-type: none;
 }
 a:hover {
-    /* border-radius: 3px;
-    padding: 10px; */
+    border-radius: 3px;
+    /* padding: 10px; */
     background-color:rgb(234, 235, 255);
 }
